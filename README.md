@@ -1,4 +1,4 @@
-# Digital Image Processe - Vision Compute
+# Digital Image Process - Vision Compute
 
 ### Introdução
 
