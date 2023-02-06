@@ -1,2 +1,3 @@
-# ProcessImage-VisionCompute
-Desenvolvimento de filtros de imagem com a Biblioteca OpenCV
+# Digital Image Processe -Vision Compute
+
+<img src="img/banner.png?raw=true"/>
